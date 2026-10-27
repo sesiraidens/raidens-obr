@@ -225,3 +225,4 @@ class RoboOBR:
         self.motores.parar()
         self.estado = "PARADO"
         print("Robo parado.")
+
