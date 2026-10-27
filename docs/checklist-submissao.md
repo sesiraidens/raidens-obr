@@ -22,3 +22,4 @@
 - [ ] Repositorio no GitHub atualizado
 - [ ] Arquivos compactados no formato correto
 - [ ] Prazo de submissao verificado
+
